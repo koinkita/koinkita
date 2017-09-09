@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 30 Jul 2017 19:04:36 at https://www.faucethub.info +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.faucethub.info -O1 "C:\My Web Sites\faucethub" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:10:14	Error: 	"Origin SSL Handshake Error" (525) at link https://www.faucethub.info/assets/img/facebook.jpeg (from https://www.faucethub.info/)
+19:11:46	Warning: 	Link https://www.faucethub.info/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:11:46	Error: 	"Origin Connection Time-out" (522) at link https://www.faucethub.info/bitcoin (from https://www.faucethub.info/)
+19:11:46	Error: 	"Origin Connection Time-out" (522) at link https://www.faucethub.info/assets/img/bitcoin.jpg (from https://www.faucethub.info/)
+19:11:46	Error: 	"Origin Unreachable" (523) at link https://www.faucethub.info/dogecoin (from https://www.faucethub.info/)
+19:11:46	Error: 	"Origin Connection Time-out" (522) at link https://www.faucethub.info/assets/fonts/glyphicons-halflings-regular.eot (from https://www.faucethub.info/assets/css/bootstrap.min.css)
+19:11:46	Error: 	"Origin Connection Time-out" (522) at link https://www.faucethub.info/assets/fonts/glyphicons-halflings-regular.eot? (from https://www.faucethub.info/assets/css/bootstrap.min.css)
+19:11:46	Error: 	"Origin Connection Time-out" (522) at link https://www.faucethub.info/assets/fonts/glyphicons-halflings-regular.woff2 (from https://www.faucethub.info/assets/css/bootstrap.min.css)
+19:11:46	Error: 	"Origin Connection Time-out" (522) at link https://www.faucethub.info/assets/fonts/glyphicons-halflings-regular.woff (from https://www.faucethub.info/assets/css/bootstrap.min.css)
+19:11:46	Error: 	"Origin Connection Time-out" (522) at link https://www.faucethub.info/assets/fonts/glyphicons-halflings-regular.ttf (from https://www.faucethub.info/assets/css/bootstrap.min.css)
+19:11:46	Error: 	"Origin Connection Time-out" (522) at link https://www.faucethub.info/assets/fonts/glyphicons-halflings-regular.svg (from https://www.faucethub.info/assets/css/bootstrap.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 10 seconds : 27 links scanned, 16 files written (735800 bytes overall) [398237 bytes received at 926 bytes/sec], 559420 bytes transferred using HTTP compression in 10 files, ratio 27%, 1.2 requests per connection
+(10 errors, 1 warnings, 0 messages)
